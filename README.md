@@ -1,16 +1,14 @@
 # Expo App
 
-This is my assignment for **Module 6 - React State Management**
+This is my assignment for **Module 6 - Javascript/React - Beyond the Browser**
 
-## Live Site
+## Live Site Screenhot
 
-- [Live Site](https://lightswitch-one.vercel.app/)
+![alt text](https://github.com/tristan-sch/expo-app/blob/main/assets/Expo%20App.jpg)
 
 ## About
 
-- I reproduced a Lightswitch from this [tutorial](https://medium.com/lets-make-something-up/creating-light-dark-mode-on-a-react-app-with-context-589a5465f639) using **React** with **Context**
-
-- _"To use Context, you basically have to call createContext() to create the wanted context, and then set a context provider function to make it accessible to other components. To understand it further, check the [documentation](https://reactjs.org/docs/context.html#reactcreatecontext)."_
+I created a very simple Expo App using React Native with a text, a component (a separator), a picture and some styles
 
 ## Running the app
 
@@ -32,4 +30,3 @@ expo start or npm start
 
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Expo](https://docs.expo.dev/get-started/create-a-new-app/)
-# expo-app
